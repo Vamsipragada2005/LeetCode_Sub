@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
+| [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
