@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
