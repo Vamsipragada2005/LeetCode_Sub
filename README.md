@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0160-intersection-of-two-linked-lists) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
