@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1797-goal-parser-interpretation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1797-goal-parser-interpretation) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
