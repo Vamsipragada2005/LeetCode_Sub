@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1797-goal-parser-interpretation) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
