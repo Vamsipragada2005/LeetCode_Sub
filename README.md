@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
