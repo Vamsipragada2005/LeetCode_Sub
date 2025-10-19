@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1806-count-of-matches-in-tournament) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1806-count-of-matches-in-tournament) |
 | [2491-smallest-even-multiple](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2491-smallest-even-multiple) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
