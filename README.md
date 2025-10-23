@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
