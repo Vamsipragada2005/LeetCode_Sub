@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1806-count-of-matches-in-tournament) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
