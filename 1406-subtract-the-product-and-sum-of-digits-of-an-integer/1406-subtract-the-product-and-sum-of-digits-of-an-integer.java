@@ -1,15 +1,13 @@
 class Solution {
     public int subtractProductAndSum(int n) {
+        int product = 1;
         int sum = 0;
-        int product =  1;
-        int temp = Math.abs(n);
-        while(temp>0){
-            int digit  =  temp%10;
-            sum+= digit;
-            product *= digit;
-            temp/=10;
+        while(n>0){
+            int digit = n % 10;
+            n = n/10;
+            product *=digit;
+            sum += digit;
         }
-        return product - sum;
-        
+        return product-sum;
     }
 }
