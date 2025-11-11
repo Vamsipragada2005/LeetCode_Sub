@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -186,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 ## Greedy
 |  |
 | ------- |
