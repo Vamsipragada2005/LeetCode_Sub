@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2491-smallest-even-multiple) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3676-smallest-number-with-all-set-bits) |
