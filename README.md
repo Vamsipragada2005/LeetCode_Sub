@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -253,4 +254,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
