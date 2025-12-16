@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1797-goal-parser-interpretation) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [3174-clear-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2288-count-operations-to-obtain-zero) |
+| [3174-clear-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3174-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3174-clear-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
