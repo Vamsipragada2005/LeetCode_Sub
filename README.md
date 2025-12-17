@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Math
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
