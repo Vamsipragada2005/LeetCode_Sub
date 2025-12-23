@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -267,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
