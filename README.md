@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
