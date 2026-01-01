@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0136-single-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
