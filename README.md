@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
