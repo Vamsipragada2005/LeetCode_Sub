@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0804-unique-morse-code-words) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1205-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0804-unique-morse-code-words) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0961-n-repeated-element-in-size-2n-array) |
