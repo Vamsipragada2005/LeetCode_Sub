@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
@@ -235,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
