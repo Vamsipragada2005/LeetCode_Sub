@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0704-binary-search) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0074-search-a-2d-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1572-matrix-diagonal-sum) |
