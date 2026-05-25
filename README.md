@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0806-number-of-lines-to-write-string) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
