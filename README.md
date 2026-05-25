@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
