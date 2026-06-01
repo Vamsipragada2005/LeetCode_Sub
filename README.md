@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1019-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
