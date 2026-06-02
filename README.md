@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
