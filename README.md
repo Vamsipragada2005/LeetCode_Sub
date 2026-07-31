@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
