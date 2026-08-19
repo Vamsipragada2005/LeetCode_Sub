@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0806-number-of-lines-to-write-string) |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1086-divisor-game) |
 ## Greedy
@@ -361,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
