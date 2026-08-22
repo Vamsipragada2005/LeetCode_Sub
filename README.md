@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0292-nim-game) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0900-reordered-power-of-2) |
 ## Divide and Conquer
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2491-smallest-even-multiple) |
 ## Prefix Sum
@@ -376,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0877-stone-game) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
