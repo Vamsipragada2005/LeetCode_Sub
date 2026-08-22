@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
