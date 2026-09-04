@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3790-fruits-into-baskets-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
 | ------- |
