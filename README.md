@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0557-reverse-words-in-a-string-iii) |
