@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0415-add-strings) |
