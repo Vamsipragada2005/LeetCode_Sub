@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2574-left-and-right-sum-differences](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2574-left-and-right-sum-differences) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1480-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
