@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1205-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1797-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1903-largest-odd-number-in-string) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
