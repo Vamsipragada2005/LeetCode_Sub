@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1395-minimum-time-visiting-all-points) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1480-running-sum-of-1d-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1693-sum-of-all-odd-length-subarrays) |
