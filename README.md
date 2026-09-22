@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0724-find-pivot-index) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 ## Segment Tree
 |  |
