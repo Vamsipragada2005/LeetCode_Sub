@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2383-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2491-smallest-even-multiple) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
