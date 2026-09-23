@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2848-points-that-intersect-with-cars](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2848-points-that-intersect-with-cars) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1797-goal-parser-interpretation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Segment Tree
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1848-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
