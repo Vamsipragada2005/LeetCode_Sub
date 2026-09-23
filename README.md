@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/3462-vowels-game-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/0940-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Segment Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2383-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Vamsipragada2005/LeetCode_Sub/tree/master/2485-find-the-pivot-integer) |
